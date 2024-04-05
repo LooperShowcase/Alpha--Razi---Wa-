@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+  font-size: 77;
+}
+body {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+body {
+  background-image: url(https://s.france24.com/media/display/a6d62f34-f981-11e8-b108-005056bff430/w:1280/p:4x3/10072018_ronaldo_juventus.jpg);
+}
+p{
+   color: rgb(228, 236, 236);
+}
